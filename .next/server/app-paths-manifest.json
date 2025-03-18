@@ -1,0 +1,12 @@
+{
+  "/(auth)/sign-in/page": "app/(auth)/sign-in/page.js",
+  "/(root)/BrokerResponse/page": "app/(root)/BrokerResponse/page.js",
+  "/(root)/Dashboard/page": "app/(root)/Dashboard/page.js",
+  "/(root)/HelpCenter/page": "app/(root)/HelpCenter/page.js",
+  "/(root)/Signals/page": "app/(root)/Signals/page.js",
+  "/(root)/TradingHistory/page": "app/(root)/TradingHistory/page.js",
+  "/(root)/TradingStatus/page": "app/(root)/TradingStatus/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
